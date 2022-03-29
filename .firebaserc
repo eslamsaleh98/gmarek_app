@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "first-project-d9f36",
+    "firebase serve --only hosting": "first-project-d9f36"
+  },
+  "targets": {}
+}
